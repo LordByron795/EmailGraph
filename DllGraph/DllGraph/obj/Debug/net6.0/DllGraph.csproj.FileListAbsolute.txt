@@ -1,0 +1,24 @@
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\bin\Debug\net6.0\DllGraph.deps.json
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\bin\Debug\net6.0\DllGraph.dll
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\bin\Debug\net6.0\DllGraph.pdb
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.csproj.AssemblyReference.cache
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.AssemblyInfoInputs.cache
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.AssemblyInfo.cs
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.csproj.CoreCompileInputs.cache
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.dll
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\refint\DllGraph.dll
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.pdb
+C:\Users\cs374985\source\repos\api graph\DllGraph\DllGraph\obj\Debug\net6.0\ref\DllGraph.dll
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\bin\Debug\net6.0\DllGraph.deps.json
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\bin\Debug\net6.0\DllGraph.dll
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\bin\Debug\net6.0\DllGraph.pdb
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.csproj.AssemblyReference.cache
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.AssemblyInfoInputs.cache
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.AssemblyInfo.cs
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.csproj.CoreCompileInputs.cache
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.dll
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\refint\DllGraph.dll
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\DllGraph.pdb
+C:\Users\cs374985\source\repos\DllGraph\DllGraph\obj\Debug\net6.0\ref\DllGraph.dll
